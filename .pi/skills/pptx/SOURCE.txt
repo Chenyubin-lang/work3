@@ -1,0 +1,8 @@
+Source repository: https://github.com/anthropics/skills
+Source path: skills/pptx
+Branch: main
+Commit: e4bb5d960d87126ff3b3a8af1a104b7db67560ba
+Commit date: 2026-11-16T14:22:47Z
+Tarball: https://codeload.github.com/anthropics/skills/tar.gz/e4bb5d960d87126ff3b3a8af1a104b7db67560ba
+Installed at: .pi\skills\pptx
+Note: only the skills/pptx directory was extracted; dependencies were not installed.
