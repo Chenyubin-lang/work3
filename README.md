@@ -162,16 +162,6 @@ work3/
 
 本项验证安装、发现、调用三个层次。未执行进一步选做的 PPT 文件生成。
 
-## 提交说明
-
-报告为本文件，截图和图片原图均位于 `image/`，代码示例为 `hello.py`。插件依赖目录 `.pi/npm/` 已列入 `.gitignore`，不需上传。`.pi/settings.json` 保留插件安装声明，Skill 目录保留完整支持文件。
-
-作业仓库：https://github.com/Chenyubin-lang/work3 。课程 Issue 尚未创建。提交时填写本人姓名拼音，并将 Issue 标题设为：
-
-`实践课1： Pi Agent安装与使用 [姓名拼音]`
-
-不要上传 `auth.json`、完整 API Key 或授权链接。
-
 ## 参考
 
 - Pi 官方安装说明：https://github.com/earendil-works/pi/tree/main/packages/coding-agent
